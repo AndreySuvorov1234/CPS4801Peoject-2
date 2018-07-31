@@ -1,0 +1,6 @@
+Currently the project is working as intended. With the help of the groupmates i was able
+to formulate the constraints or "Data" in the project and build a shedule around it.
+Used genetic algorithm aproach since someone else already used CSP to accomplish it, should
+be more efficient however sufficient testing has not been done to confirm.Last second 
+modification was made to keep mutating untill a 0 conflict sollution was achieved. 
+Practically meaning the right solution, also idicated by 100% fitness value. 
